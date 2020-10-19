@@ -44,7 +44,7 @@
   <filter>
     <description>Log debug information about each request</description>
     <display-name>Cocoon debug filter</display-name>
-    <filter-name>CocoonDebugFilter</filter-name>
+    <filter-name>CocoonDebugFilter1111111</filter-name>
     <filter-class>org.apache.cocoon.servlet.DebugFilter</filter-class>
   </filter>
 
